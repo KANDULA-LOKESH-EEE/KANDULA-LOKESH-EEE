@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Student from India</h3>
 
 
-- 🔭 I’m currently working on RASPBERRY PI
+- 🔭 I’m currently working on : **RASPBERRY PI**
 
 - 🌱 I’m currently learning **SQL**
 
@@ -11,7 +11,7 @@
 
 - 📨 How to reach me : **lokeshash830@gmail.com**
 
-- ⚡ Fun fact : **Coding can “power up” your brain**
+- ⚡ Fun fact : **There are around 700 separate programming languages amongst this list, some of the most popular languages are Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects. However, new programming languages are constantly being created.**
 
 
 <h3 align="left">Languages and Tools:</h3>
