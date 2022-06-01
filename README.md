@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://cdn.dribbble.com/users/69417/screenshots/3816920/dribbble_tele2.gif)
+![MASTERHEAD](https://cdn.dribbble.com/users/69417/screenshots/3816920/dribbble_tele2.gif)
 
 <h1 align="center">Hi 👋, I'm LOKESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
