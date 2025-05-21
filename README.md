@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **ARDUINO**
 
-- 📫 How to reach me **lokeshash830@gmail.com**
-
 - ⚡ Fun fact **PROGRAMMING IS INTRESTING**
 
 
